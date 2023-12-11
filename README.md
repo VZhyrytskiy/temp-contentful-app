@@ -1,5 +1,4 @@
-Space ID: il5cd2r9dmv4
-Access Token: 2yGxLL6-EQe1drVHjljOVpujpFzGpOw0QHDzTS6scl8
+
 
 ## Figma URL
 
